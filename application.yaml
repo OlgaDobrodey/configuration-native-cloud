@@ -1,2 +1,4 @@
 my:
   greeting: hello everyone !!!!
+  password: '{cipher}c82f1eacede70f2febea88510391b6327c9797108c0459d33256ee417a15af9b517c4a58f0b581c5e19b7ba8baf05141'  
+  
