@@ -1,14 +1,2 @@
-spring:
-  message: MESSAGE
-configuration:
-  projectName: DefaultProjectName
-  properties: DefaultProperties
-
-    #Simple properties
-mail:
-  hostname: mailer@mail.com
-  port: 9000
-  from: mailer@mail.com
-
 my:
-  greeting: hello everyone !!!!!
+  greeting: hello everyone !!!!
